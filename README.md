@@ -6,9 +6,17 @@
 
 **Developer တစ်ယောက်ရဲ့ အဓိကလက်နက်က Self-Study ပါ။ မပျင်းကြပါနဲ့ဗျာ။**
 
-## English ကို မကကြောက်ကြပါနဲ့။
+## English ကို မကြောက်ကြပါနဲ့။
 > ဒီ IT လိုင်းကို ဝင်လာပီဆိုရင် ကိုနဲ့ အမြဲတမ်းထိတွေ့ရမှာ English စာပါ။ ဘာလို့လဲဆိုတော့ Programming and Language Documentation တွေက English လိုပဲရေးထားလို့ပါ။ English ကိုမကြောက်ကြပါနဲ့။  Documentation တွေဝင်ဖတ်ကြပါ။ Eng Tutorial တွေကို လိုက်ကြည့်ကြပါဗျာ။
 
 ```
 I hope this Help your Journey
 ```
+
+
+> Live Demo
+
+https://robinglory.github.io/WebDevFreeCourses/
+
+> Android Demo
+![IMG_20211118_202336](https://user-images.githubusercontent.com/80534929/142431174-0d2a9ff1-3551-4a30-810d-2ab6a55da3f7.jpg)
