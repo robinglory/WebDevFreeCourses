@@ -4,8 +4,14 @@ body{
    justify-content: center;
    align-items: center;
    text-align: center;
+   font-size: 16px;
+   font-weight: bold;
+   background: #666 ;
 }
 
 h1{
-   margin: 3%;
+   margin-bottom: 0.5em;
+   line-height: 2em;
+   color: white;
 }
+
